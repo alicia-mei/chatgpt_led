@@ -1,1 +1,1 @@
-Activity required us to create a code without libraries. Students had to blink a led on the FRDM KL25Z board.
+Activity required students to generate a code using chatgpt and correct it. The task was to blink a led on the FRDM KL25Z board using the registers and library other than stdio.h.
